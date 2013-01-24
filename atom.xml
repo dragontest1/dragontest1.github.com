@@ -4,7 +4,7 @@
   <title><![CDATA[Dragon's Blog]]></title>
   <link href="http://dragontest1.github.com/atom.xml" rel="self"/>
   <link href="http://dragontest1.github.com/"/>
-  <updated>2013-01-24T17:29:21+08:00</updated>
+  <updated>2013-01-24T17:39:50+08:00</updated>
   <id>http://dragontest1.github.com/</id>
   <author>
     <name><![CDATA[Dragon]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[second test]]></title>
+    <link href="http://dragontest1.github.com/blog/2013/01/24/second-test/"/>
+    <updated>2013-01-24T17:38:00+08:00</updated>
+    <id>http://dragontest1.github.com/blog/2013/01/24/second-test</id>
+    <content type="html"><![CDATA[<h3>什么东东，写一写</h3>
+
+<p>Markdown 不太会用啊</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[My first blog]]></title>
