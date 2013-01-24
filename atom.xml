@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Dragon's Blog]]></title>
+  <link href="http://dragontest1.github.com/atom.xml" rel="self"/>
+  <link href="http://dragontest1.github.com/"/>
+  <updated>2013-01-24T17:29:21+08:00</updated>
+  <id>http://dragontest1.github.com/</id>
+  <author>
+    <name><![CDATA[Dragon]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[My first blog]]></title>
+    <link href="http://dragontest1.github.com/blog/2013/01/24/my-first-blog/"/>
+    <updated>2013-01-24T16:52:00+08:00</updated>
+    <id>http://dragontest1.github.com/blog/2013/01/24/my-first-blog</id>
+    <content type="html"><![CDATA[<h4>markdown语法，试试呗</h4>
+
+<h2>随便写写呗</h2>
+
+<ol>
+<li>这是1</li>
+<li>这是2</li>
+</ol>
+
+]]></content>
+  </entry>
+  
+</feed>
